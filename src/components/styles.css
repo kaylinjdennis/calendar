@@ -1,0 +1,7 @@
+.ViewButtons:hover {
+  border-color: black;
+}
+
+.ViewButtons {
+  border-color: grey;
+}
